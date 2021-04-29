@@ -11,7 +11,7 @@ pip install selenium
 Also you need to unzip and copy the [Chrome webdriver](https://chromedriver.chromium.org/downloads) into the PATH folder of your system ([basic instructions](https://www.computerhope.com/issues/ch000549.htm))
 
 
-#Using the bot
+###Using the bot
 In the same folder you used to save the bot you need to make a txt file named "credentials.txt" with the following format:
 ```bash
 INSTA_USERNAME
